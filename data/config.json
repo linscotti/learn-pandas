@@ -1,0 +1,22 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "dbuser",
+        "password": "password123",
+        "dbname": "sampledb"
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "/var/log/app.log"
+    },
+    "api": {
+        "key": "your-api-key",
+        "endpoint": "https://api.example.com/v1",
+        "timeout": 30
+    },
+    "features": {
+        "enable_feature_x": true,
+        "max_connections": 10
+    }
+}

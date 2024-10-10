@@ -1,0 +1,9 @@
+
+{
+        "config_file": "data/config.json",
+        "data_file": "data/data.txt",
+        "large_dataset": "data/large_dataset.json",
+        "mock_data_csv": "data/mock_data.csv",
+        "sales_data_1_csv": "data/sales_data_1.csv",
+        "sales_data_csv": "data/sales_data.csv"
+}
